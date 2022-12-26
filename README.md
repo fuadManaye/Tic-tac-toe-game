@@ -1,7 +1,7 @@
 # Tic-tac-toe-game
 
 - Tic-Tac-Toe is a game where two players complete a row, a column, or a diagonal line with either three O's or three X's drawn in the spaces of a grid of nine squares.
-Tic-Tac-Toe is a long beloved classic pen and paper or board game for two players.from this I was able to make this game using Python.
+Tic-Tac-Toe is a long beloved classic pen and paper or board game for two players. from this I was able to make this game using Python.
 
 # How to Run this project
 
